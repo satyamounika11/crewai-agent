@@ -51,7 +51,7 @@ Windows user may get "uvloop" error as this is not compatible with Windows. Down
 
 The query that I have used:
 
-Query:
+## Query:
 
 I am working on testing an AI Agent that can read the internal documentation and respond to the queries of the users.
 
@@ -73,17 +73,17 @@ Real-world use cases like high-frequency trading, decentralized app hosting, and
 Expecting the PDF output in 500 Lines.
 
 
-Output:
+## Output:
 
-Explains what Aether Cloud is:
+## Explains what Aether Cloud is:
 
 ![aether](https://github.com/user-attachments/assets/ceeb83a6-8d4e-4cd2-91b6-6e059958e63e)
 
-Explains how is it different from other Cloud Platforms:
+## Explains how is it different from other Cloud Platforms:
 
 ![aether-2](https://github.com/user-attachments/assets/0efdda06-a48f-41d9-b4ce-e5b6e25296da)
 
-Explains the three best features of Aether Cloud:
+## Explains the three best features of Aether Cloud:
 
 ![aether-3](https://github.com/user-attachments/assets/267ff8ef-4ec7-4e41-a129-6e3609c8ce7a)
 
