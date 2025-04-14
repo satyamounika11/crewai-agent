@@ -1,4 +1,4 @@
-![aether-2](https://github.com/user-attachments/assets/28112d91-6755-4e85-aa2c-12278687e9a1)# PDF Knowledge Example
+# PDF Knowledge Example
 
 This project demonstrates how to create a Crew of AI agents and tasks using crewAI. It uses a PDF knowledge source to answer user questions based on the content of the PDF. The PDF is loaded from a file and the knowledge source is initialized with it. The project also includes a custom task that uses the knowledge source to answer user questions. You can modify the question in the `main.py` file.
 
@@ -51,7 +51,6 @@ Windows user may get "uvloop" error as this is not compatible with Windows. Down
 
 The query that I have used:
 
-----
 Query:
 
 I am working on testing an AI Agent that can read the internal documentation and respond to the queries of the users.
@@ -72,7 +71,7 @@ Comparison of AetherCloud with AWS, Azure, and GCP
 Real-world use cases like high-frequency trading, decentralized app hosting, and AI model deployment
 
 Expecting the PDF output in 500 Lines.
-----
+
 
 Output:
 
